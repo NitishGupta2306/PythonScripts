@@ -6,3 +6,6 @@ def install(package):
 
 install("pandas")
 install("lxml")
+install("opencv-python")
+install("ghostscript")
+install("camelot-py")

@@ -8,3 +8,5 @@ This python project is created to write one new python script per day. No reusin
 
 ### Current Scripts:
 1. GetTableData: Gets table data from websites or PDF files.
+2. PackageInstallation: Package installation for these scripts.
+3. SendEmail: Sends email using a passkey and body. You can send multiple emails by setting it in a for loop to run through a list of email recipients.
